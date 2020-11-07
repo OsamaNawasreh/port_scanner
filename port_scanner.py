@@ -52,6 +52,4 @@ total = t2 - t1
 #printing the info to screen
 print "scanning compelte in :", total
 
-# Osama Nawasreh
-# https://github.com/OsamaNawasreh/
-# https://www.instagram.com/os66a12/
+
